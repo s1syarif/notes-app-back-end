@@ -1,3 +1,3 @@
-const notes = ['i love u sayangg semangatt yaa, aku mau sholat duluu'];
+const notes = [];
 
 module.exports = notes;
